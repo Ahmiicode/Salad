@@ -7,7 +7,7 @@ import About from "./pages/About";
 import Menu from "./pages/Menu";
 import Contact from "./pages/Contact";
 import Product from "./pages/Product";
-import AddCart from "./pages/Addcart";
+import AddCart from "./pages/AddCart";
 import { CartProvider } from "./context/CartContext";  // ✅ Import provider
 import Checkout from "./pages/Checkout"; // ✅ 
 
