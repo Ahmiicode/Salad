@@ -1,5 +1,5 @@
 import React from 'react'
-import Banner from '../components/bannner'
+import Banner from '../components/Bannner'
 import Experince from '../components/Experince'
 import Popular from '../components/Popular'
 import Resturent from '../components/Resturent'
